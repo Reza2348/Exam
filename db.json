@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "amier",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "fname": "zara",
+      "age": 36
+    },
+    {
+      "id": 3,
+      "fname": "reza",
+      "age": 29
+    },
+    {
+      "id": 4,
+      "fname": "mina",
+      "age": 19
+    },
+    {
+      "id": 5,
+      "fname": "hoosin",
+      "age": 45
+    }
+  ]
+}
