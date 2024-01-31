@@ -24,6 +24,13 @@
       "id": 5,
       "fname": "hoosin",
       "age": 45
+    },
+    {
+       {
+      "id": 6,
+      "fname": "amieri",
+      "age": 12
+    }
     }
   ]
 }
